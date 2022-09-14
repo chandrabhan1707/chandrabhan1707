@@ -1,6 +1,5 @@
 - Hi there, I’m Chandra Bhan 👋(Chandra Bhan Shirshwar)
 - Machine Learning Enthusiastic | Python Developer
-[![Chandra Bhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrabhan1707)](https://github.com/chandrabhan1707/github-readme-stats)
 ![Chandra Bhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrabhan1707&show_icons=true&theme=radical)
 - 🌱 I’m currently learning cleaning the Data ...
 - 💞️ I’m looking to collaborate on ...
