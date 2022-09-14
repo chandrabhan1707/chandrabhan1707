@@ -11,9 +11,9 @@ Reach me on :
 
 ![Chandra Bhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrabhan1707&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning cleaning the Data ...
+- 🌱 I’m currently Working on: _Machine Learning Algorithms_.
+- 🌱 I’m currently learning - _Natural language Process And Computer vision._
 - 💞️ I’m looking to collaborate on ...
-- 📫 Rreach me on :
    
 
 <!---
