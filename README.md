@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=chandrabhan1707.chandrabhan1707)
+
 Hi there, I’m Chandra Bhan 👋(Chandra Bhan Shirshwar)
 
 Machine Learning Enthusiast | Python Developer.
@@ -9,12 +11,16 @@ Reach me on :
   * My contribution in Data Science in [Kaggle](https://www.kaggle.com/chandrabhanshirshwar)
   * My Updates in [Twitter](https://twitter.com/Chandra98539816)
 
-![Chandra Bhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrabhan1707&show_icons=true&theme=radical)
+![Chandra Bhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrabhan1707&show_icons=true&theme=cobalt)
 
-- 🌱 I’m currently Working on: _Machine Learning Algorithms_.
-- 🌱 I’m currently learning - _Natural language Process And Computer vision._
-- 💞️ I’m looking to collaborate on ...
-   
+- :computer: I’m currently Working on - _Machine Learning Algorithms_.
+- :memo: I’m currently learning - _Natural language Process And Computer vision._
+- :man_student: Words that describe me - _Hardworking,Self-motivated,Perfectionist._
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 <!---
 chandrabhan1707/chandrabhan1707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
