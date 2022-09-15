@@ -2,7 +2,7 @@ Hi there, I’m Chandra Bhan 👋(Chandra Bhan Shirshwar)
 
 Machine Learning Enthusiast | Python Developer.
 
-To utilize my knowledge and inovative ideas in the field of data Science, Machine Learning and Deep Learning towards the smoothing functioning of organization.I realised that staisfaction is a book of achievement,which holds the learning experience records of doing, trying , getting failed , trying agin and finally succeeding in the project.
+To utilize my knowledge and inovative ideas in the field of data Science, Machine Learning and Deep Learning towards the smooth functioning of organization.I realised that staisfaction is a book of achievement,which holds the learning experience records of doing, trying , getting failed , trying agin and finally succeeding in the project.
 
 Reach me on :
   * My Profile in [Linkedin](https://www.linkedin.com/in/chandra-bhan-a50aa61b0/)
