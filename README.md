@@ -13,6 +13,8 @@ Reach me on :
 
 ![Chandra Bhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrabhan1707&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhan1707&layout=compact&theme=cobalt)](https://github.com/chandrabhan1707/github-readme-stats)
+
 - :computer: I’m currently Working on - _Machine Learning Algorithms_.
 - :memo: I’m currently learning - _Natural language Process And Computer vision._
 - :man_student: Words that describe me - _Hardworking,Self-motivated,Perfectionist._
