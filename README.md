@@ -18,7 +18,7 @@ Python • Pandas • NumPy • OpenCV • PyTorch • Matplotlib • Jenkins �
 ### 📈 Interests
 • AI Automation • Intelligent Agents
 
-* Words that describe me - _Hardworking,Self-motivated,Perfectionist._
+Words that describe me - _Hardworking,Self-motivated,Perfectionist._
 
 Reach me on :
   * My Profile in [Linkedin](https://www.linkedin.com/in/chandra-bhan-a50aa61b0/)
