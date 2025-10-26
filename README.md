@@ -1,23 +1,32 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=chandrabhan1707.chandrabhan1707)
 
-Hi there, I’m Chandra Bhan 👋(Chandra Bhan Shirshwar)
+# 👋 Hey there, I'm Chandra Bhan
 
-Machine Learning Enthusiast | Python Developer.
+I'm a **Data Engineer & Computer Vision Developer** passionate about transforming complex data into intelligent systems.
 
-To utilize my knowledge and inovative ideas in the field of data Science, Machine Learning and Deep Learning towards the smooth functioning of organization.I realised that staisfaction is a book of achievement,which holds the learning experience records of doing, trying , getting failed , trying agin and finally succeeding in the project.
+- 🧠 **2+ years of experience** in data analysis, stats generation, and data preprocessing using **Python**.
+- 🎯 Worked on **camera calibration** and **image-based data preparation** for computer vision pipelines.
+- ⚙️ Skilled in **Jenkins automation** for data workflows and ML pipelines.
+- 🌍 Comfortable with **Docker**, and workflow tools like **n8n**.
 
+### 🔭 Current Focus
+Exploring **Artificial Intelligence**, **Generative AI**, and **Agentic AI** — building autonomous systems that can reason, act, and learn from real-world data.
+
+### 🧰 Tech Stack
+Python • Pandas • NumPy • OpenCV • PyTorch • Matplotlib • Jenkins • Docker • n8n • Linux
+
+### 📈 Interests
+• MLOps • Computer Vision • AI Automation • Intelligent Agents
+
+- :man_student: Words that describe me - _Hardworking,Self-motivated,Perfectionist._
+- 
 Reach me on :
   * My Profile in [Linkedin](https://www.linkedin.com/in/chandra-bhan-a50aa61b0/)
-  * My contribution in Data Science in [Kaggle](https://www.kaggle.com/chandrabhanshirshwar)
-  * My Updates in [Twitter](https://twitter.com/Chandra98539816)
 
 ![Chandra Bhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrabhan1707&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhan1707&layout=compact&theme=cobalt)](https://github.com/chandrabhan1707/github-readme-stats)
 
-- :computer: I’m currently Working on - _Machine Learning Algorithms_.
-- :memo: I’m currently learning - _Natural language Process And Computer vision._
-- :man_student: Words that describe me - _Hardworking,Self-motivated,Perfectionist._
 
 <!---
 chandrabhan1707/chandrabhan1707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
