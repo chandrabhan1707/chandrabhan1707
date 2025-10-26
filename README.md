@@ -6,20 +6,20 @@ I'm a **Data Engineer & Computer Vision Developer** passionate about transformin
 
 - 🧠 **2+ years of experience** in data analysis, stats generation, and data preprocessing using **Python**.
 - 🎯 Worked on **camera calibration** and **image-based data preparation** for computer vision pipelines.
-- ⚙️ Skilled in **Jenkins automation** for data workflows and ML pipelines.
-- 🌍 Comfortable with **Docker**, and workflow tools like **n8n**.
+- ⚙️ Skilled in **Jenkins automation** for data workflows and Data pipelines.
+- 🌍 Comfortable with **Python**,**Docker**
 
 ### 🔭 Current Focus
 Exploring **Artificial Intelligence**, **Generative AI**, and **Agentic AI** — building autonomous systems that can reason, act, and learn from real-world data.
 
 ### 🧰 Tech Stack
-Python • Pandas • NumPy • OpenCV • PyTorch • Matplotlib • Jenkins • Docker • n8n • Linux
+Python • Pandas • NumPy • OpenCV • PyTorch • Matplotlib • Jenkins • Docker • n8n • LangChain framework
 
 ### 📈 Interests
-• MLOps • Computer Vision • AI Automation • Intelligent Agents
+• AI Automation • Intelligent Agents
 
-- :man_student: Words that describe me - _Hardworking,Self-motivated,Perfectionist._
-- 
+man_student: Words that describe me - _Hardworking,Self-motivated,Perfectionist._
+
 Reach me on :
   * My Profile in [Linkedin](https://www.linkedin.com/in/chandra-bhan-a50aa61b0/)
 
